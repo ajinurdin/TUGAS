@@ -1,0 +1,7 @@
+#singly linked list terurut
+nama_buah = ["apel", "jeruk", "jambu", "anggur"]
+
+nama_buah.append("semangka")
+nama_buah.insert(3,"melon")
+
+print(nama_buah)
